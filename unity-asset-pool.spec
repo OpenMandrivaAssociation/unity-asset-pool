@@ -40,7 +40,6 @@ done
 
 %files
 %doc COPYRIGHT README.txt
-%dir %{_datadir}/unity
 %{_datadir}/unity/
 %{_datadir}/icons/unity-icon-theme
 

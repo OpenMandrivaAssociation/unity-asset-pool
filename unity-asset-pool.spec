@@ -1,5 +1,5 @@
 Name:           unity-asset-pool
-Version:        0.8.22
+Version:        0.8.23
 Release:        1
 License:        CC-BY-SA
 Summary:        Pool of assets for Unity (icons)

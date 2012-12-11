@@ -43,3 +43,15 @@ done
 %{_datadir}/unity/
 %{_datadir}/icons/unity-icon-theme
 
+
+
+%changelog
+* Fri May 18 2012 Crispin Boylan <crisb@mandriva.org> 0.8.23-1
++ Revision: 799505
+- New release
+
+* Tue Jan 24 2012 Matthew Dawkins <mattydaw@mandriva.org> 0.8.22-1
++ Revision: 768051
+- removed dir b/c of duplicate file listings
+- imported package unity-asset-pool
+

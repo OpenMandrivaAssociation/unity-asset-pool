@@ -3,7 +3,7 @@ Version:        0.8.23
 Release:        2
 License:        CC-BY-SA
 Summary:        Pool of assets for Unity (icons)
-Url:            http://launchpad.net/unity-asset-pool
+Url:            https://launchpad.net/unity-asset-pool
 Group:          Graphical desktop/Other
 Source:         %{name}-%{version}.tar.gz
 
